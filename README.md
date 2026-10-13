@@ -1,10 +1,8 @@
+![Imran Hoosen | Rosewood Digital](./assets/profile-banner.svg)
+
 <div align="center">
 
-# Imran Hoosen
-
-**Founder, Rosewood Digital · Digital Product Builder · Product QA & Operations**
-
-*Auckland, New Zealand*
+**Auckland, New Zealand**
 
 I turn everyday workflow problems into practical digital-product ideas, using research, user feedback, testing and AI-assisted development.
 
