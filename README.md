@@ -25,7 +25,6 @@ My background also includes **administration, data entry, invoicing and logistic
 | Project | Focus | My involvement |
 | --- | --- | --- |
 | **Listing Genius** | Streamlining repetitive workflows around real-estate listings | Product direction, customer feedback, usability review and testing |
-| **Vellen / TradieQuote AI** | Turning rough trades job notes into structured quotes and PDFs | Workflow definition, feature review, testing and research |
 | **Rosewood Digital** | Digital products and workflow experimentation | Founder, coordination, content and product iteration |
 
 *Some active projects are kept in private repositories. Descriptions reflect my contributions, not a claim that I independently engineered every component.*
