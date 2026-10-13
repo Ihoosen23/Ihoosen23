@@ -6,7 +6,7 @@
 
 I turn everyday workflow problems into practical digital-product ideas, using research, user feedback, testing and AI-assisted development.
 
-[**Rosewood Digital**](https://rosewooddigital.co.nz) · [**Personal Website**](https://imranhoosen.github.io) · [**Portfolio Repository**](https://github.com/Ihoosen23/Portfolio)
+[**Rosewood Digital**](https://rosewooddigital.co.nz) · [**Personal Website**](https://ihoosen23.github.io/imranhoosen.github.io/) · [**Portfolio Repository**](https://github.com/Ihoosen23/Portfolio)
 
 </div>
 
